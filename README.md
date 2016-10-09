@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+MagicRejoice007 here, I like Node.
